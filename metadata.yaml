@@ -1,0 +1,37 @@
+_repo: Abraham-Lincoln_18379
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Charnwood, Godfrey Rathbone Benson, Baron
+    birthdate: 1864
+    deathdate: 1945
+    gutenberg_agent_id: '7982'
+    url: http://www.gutenberg.org/2009/agents/7982
+description: 'No other narrative account of Abraham Lincoln''s life has inspired such
+  widespread acclaim as Lord Charnwood''s Abraham Lincoln : a biography. Many contemporary
+  historians consider this thorough and superbly crafted work the quintessential biography
+  of one of America''s greatest presidents. Written by a native of England and originally
+  published in 1916, the biography is a rare blend of beautiful prose and profound
+  historical insight. Charnwood''s study of Lincoln''s statemanship introduced generations
+  of Americans to the life and politics of Lincoln, and the author''s observations
+  are so comprehensive and well supported that any serious study of Lincoln must respond
+  to his conclusions. This is essential reading for anyone interested in Abraham Lincoln,
+  the Civil War, or American political history.'
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2006-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+title: Abraham Lincoln
+url: http://www.gutenberg.org/ebooks/18379
